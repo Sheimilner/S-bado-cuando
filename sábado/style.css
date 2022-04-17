@@ -1,0 +1,41 @@
+.container{
+    background-color: #581845;
+    border-radius: 3%;
+    margin: 0px auto;
+    align-self: center;
+    align-content: center;
+    width: 700px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+img{
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15%;
+    padding-bottom: 15px;
+  
+}
+
+h1{
+    color: #c70039;
+    text-transform: uppercase;
+    font-size: 200%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h2{
+    color: #ffc305;
+        text-align: center;
+}
+
+#cantidad{
+        color:#ffc305;
+        display: block;
+        font-size: 130%;
+        margin: 0 auto;
+        text-align: center;
+    
+}
+
